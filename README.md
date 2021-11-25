@@ -1,6 +1,4 @@
 # Portfólio de Projetos
-Este portal está sempre **em construção**! (*This portal is always under construction.*)
-Eu ainda estou criando e atualizando as coisas por aqui. (I'm still creating and updating things here.)
 ## Sumário de Repositórios (Repos Summary)
 > Repositories > Sort > by name:
 
